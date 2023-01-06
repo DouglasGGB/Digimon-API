@@ -1,0 +1,1 @@
+export 'package:flutter_application_1/data/data_provider/data_provider_digimon.dart';

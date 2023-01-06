@@ -1,0 +1,1 @@
+export 'DigimonView/digimon_view_general.dart';
